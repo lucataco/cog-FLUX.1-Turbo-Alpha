@@ -13,6 +13,6 @@ Make sure you have [cog](https://github.com/replicate/cog) installed.
 
 To run a prediction:
 
-    cog predict -i prompt="A DSLR photo of a shiny VW van that has a cityscape painted on it. A smiling sloth stands on grass in front of the van and is wearing a leather jacket, a cowboy hat, a kilt and a bowtie. The sloth is holding a quarterstaff and a big book"
+    cog predict -i prompt="a light bulb, instead of the usual filament, there's a small sailboat with its sails unfurled. The sailboat is illuminated from within, suggesting it's powered by the light bulb itself. The bulb is suspended against a cosmic backdrop filled with stars, giving the impression that the sailboat is sailing through space"
 
 ![Output](output.0.png)
